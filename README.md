@@ -1,17 +1,17 @@
-# The Hacking Project - Semaine 7 - Lundi
+# The Hacking Project - Semaine 7 - mardi
 
 ## Projet : Landing page
 
 
 ## Lien Heroku
-
+https://landingpages7j1.herokuapp.com/
 
 
 ##
 
 
 ```
-cd thp-projet-71-landing-page-html-css
+cd landing_page
 bundle install
 rails db:migrate
 rails server
