@@ -16,4 +16,4 @@ bundle install
 rails db:migrate
 rails server
 ```
-# landing_projet
+# landing_page
