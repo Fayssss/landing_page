@@ -1,0 +1,52 @@
+.btn-pink {
+  text-decoration: none;
+  background-color: rgba(238, 48, 23, 0.774);
+  text-align: center;
+  padding: 10px 250px;
+  border-radius: 25px;
+  border: 1px solid rgba(20, 20, 20, 0.671);
+  color: rgb(246, 242, 242);
+  font-size: 16px;
+}
+
+.btn-pink:hover {
+  cursor: pointer;
+  opacity: 0.7;
+  box-shadow: 2px 2px 8px rgb(19, 19, 19);
+}
+
+.btn-blue {
+  text-decoration: none;
+  background-color: rgba(241, 55, 55, 0.726);
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 25px;
+  border: 1px solid rgb(3, 10, 10);
+  color: #FFFFFF;
+  font-size: 16px;
+  box-shadow: 2px 2px 8px rgb(214, 166, 166);
+}
+
+.btn-blue:hover {
+  border: 1px solid rgb(32, 20, 22);
+  color: rgb(233, 36, 36);
+  cursor: pointer;
+  background: none;
+  box-shadow: none;
+}
+
+.btn-light-green {
+  text-decoration: none;
+  background-color: rgb(209, 47, 47);
+  padding: 5px 25px;
+  border-radius: 25px;
+  color: rgb(206, 182, 168);
+  border: 1px solid rgb(31, 19, 24);
+  font-size: 16px;
+}
+
+.btn-light-green:hover {
+  background-color: rgba(252, 247, 247, 0.678);
+  cursor: pointer;
+  border: 1px solid rgb(7, 36, 37);
+}
